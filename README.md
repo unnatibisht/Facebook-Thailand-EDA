@@ -1,4 +1,14 @@
 # 📊 Facebook Thailand — EDA
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-green)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![EDA](https://img.shields.io/badge/EDA-Exploratory_Data_Analysis-purple)
+
+</p>
 
 An Exploratory Data Analysis project on Facebook posts from Thailand to understand content performance, user engagement, and the best time to post.
 
